@@ -1,6 +1,6 @@
 ## Unblocked Games 76 👋
 
-<a href="https://lesson2.guru"><img src="https://clearcache.store/gamez.png"></a>
+<a href="https://mathlessons.blog/"><img src="https://clearcache.store/gamez.png"></a>
 
 <h1><a href="https://mathlessons.blog">CLICK TO PLAY GAME</h1>
 <HR>---
