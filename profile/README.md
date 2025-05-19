@@ -1,73 +1,16 @@
- <style>
-    body {
-      font-family: sans-serif;
-      background: #000;
-      color: #fff;
-      text-align: center;
-    }
-    h1 {
-      margin-top: 30px;
-    }
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-      gap: 20px;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    .game-box {
-      background: #111;
-      border: 2px solid #444;
-      border-radius: 12px;
-      padding: 10px;
-      transition: transform 0.2s, box-shadow 0.2s;
-    }
-    .game-box:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 10px #00ffcc;
-    }
-    .game-box img {
-      width: 100%;
-      border-radius: 8px;
-    }
-    .game-box a {
-      color: white;
-      text-decoration: none;
-      display: block;
-      margin-top: 10px;
-      font-weight: bold;
-      font-size: 14px;
-    }
-  </style>
-## Unblocked Games 76 👋
 
- <div class="grid">
-    <div class="game-box">
-      <a href="https://lesson2.guru" target="_blank">
-        <img src="https://lesson2.guru/uploads/67f7bef88d465-retro-bowl.png" alt="Retro Bowl">
-        Retro Bowl
-      </a>
-    </div>
-    <div class="game-box">
-      <a href="https://mathlessons.blog" target="_blank">
-        <img src="https://lesson2.guru/uploads/67f820c1785cb-slope.png" alt="Slope">
-        Slope
-      </a>
-    </div>
-    <div class="game-box">
-      <a href="https://lessons-1.site" target="_blank">
-        <img src="https://lesson2.guru/uploads/67f8210209685-bitlife.png" alt="BitLife">
-        BitLife
-      </a>
-    </div>
-    <div class="game-box">
-      <a href="https://lesson-1.lol" target="_blank">
-        <img src="https://lesson2.guru/uploads/67f8214849fea-cookieclicker.png" alt="Cookie Clicker">
-        Cookie Clicker
-      </a>
-    </div>
-  </div>
+## Unblocked Games 76 👋
+[![Retro Bowl](https://lesson2.guru/uploads/67f7bef88d465-retro-bowl.png)](https://lesson2.guru)  
+**[Retro Bowl](https://lesson2.guru)**
+
+[![Slope](https://lesson2.guru/uploads/67f820c1785cb-slope.png)](https://mathlessons.blog)  
+**[Slope](https://mathlessons.blog)**
+
+[![BitLife](https://lesson2.guru/uploads/67f8210209685-bitlife.png)](https://lessons-1.site)  
+**[BitLife](https://lessons-1.site)**
+
+[![Cookie Clicker](https://lesson2.guru/uploads/67f8214849fea-cookieclicker.png)](https://lesson-1.lol)  
+**[Cookie Clicker](https://lesson-1.lol)**
 
 <a href="https://mathlessons.blog/"><img src="https://clearcache.store/gamez.png"></a>
 
