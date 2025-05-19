@@ -1,16 +1,14 @@
 
 ## Unblocked Games 76 👋
-[![Retro Bowl](https://lesson2.guru/uploads/67f7bef88d465-retro-bowl.png)](https://lesson2.guru)  
-**[Retro Bowl](https://lesson2.guru)**
-
-[![Slope](https://lesson2.guru/uploads/67f820c1785cb-slope.png)](https://mathlessons.blog)  
-**[Slope](https://mathlessons.blog)**
-
-[![BitLife](https://lesson2.guru/uploads/67f8210209685-bitlife.png)](https://lessons-1.site)  
-**[BitLife](https://lessons-1.site)**
-
-[![Cookie Clicker](https://lesson2.guru/uploads/67f8214849fea-cookieclicker.png)](https://lesson-1.lol)  
-**[Cookie Clicker](https://lesson-1.lol)**
+<a href="https://lesson2.guru">
+  <img src="https://lesson2.guru/uploads/67f7bef88d465-retro-bowl.png" width="150" />
+</a>
+<a href="https://mathlessons.blog">
+  <img src="https://lesson2.guru/uploads/67f820c1785cb-slope.png" width="150" />
+</a>
+<a href="https://lessons-1.site">
+  <img src="https://lesson2.guru/uploads/67f8210209685-bitlife.png" width="150" />
+</a>
 
 <a href="https://mathlessons.blog/"><img src="https://clearcache.store/gamez.png"></a>
 
